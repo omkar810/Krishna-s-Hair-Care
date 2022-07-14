@@ -13,7 +13,7 @@ nav{
 }
 /* homepage */
 .bg-img{
-    height: 80vh;
+    height: 87vh;
 }
 .bg-img::before{
     content: "";
