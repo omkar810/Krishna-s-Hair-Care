@@ -11,9 +11,6 @@ nav{
     font-size: 16px;
     font-family: 'Play', sans-serif;
 }
-.dropdown-item{
-    color: rgb(109, 236, 109);
-}
 /* homepage */
 .bg-img{
     height: 90vh;
