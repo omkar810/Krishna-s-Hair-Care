@@ -11,6 +11,9 @@ nav{
     font-size: 16px;
     font-family: 'Play', sans-serif;
 }
+.dropdown-item{
+    color: rgb(109, 236, 109);
+}
 /* homepage */
 .bg-img{
     height: 90vh;
@@ -138,6 +141,9 @@ nav{
     text-decoration: none;
     color: rgba(255, 255, 255, 0.712);
     font-size: 37px;
+}
+.b-top a:hover{
+    color: rgba(255, 255, 255, 0.712);
 }
 .footer h4{
     color: tomato;
